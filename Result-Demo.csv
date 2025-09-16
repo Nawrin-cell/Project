@@ -1,0 +1,1501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1757976305452,581,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3981,234,34,34,https://www.saucedemo.com/,128,0,50
+1757976305452,128,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,658,115,34,34,http://saucedemo.com/,128,0,50
+1757976305580,453,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3323,119,34,34,https://www.saucedemo.com/,453,0,195
+1757976304791,1250,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3983,234,34,34,https://www.saucedemo.com/,255,0,48
+1757976304791,255,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,660,115,34,34,http://saucedemo.com/,255,0,48
+1757976305047,994,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3323,119,34,34,https://www.saucedemo.com/,994,0,700
+1757976305576,464,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3980,234,34,34,https://www.saucedemo.com/,187,0,72
+1757976305496,544,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3981,234,34,34,https://www.saucedemo.com/,98,0,49
+1757976305576,187,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,34,34,http://saucedemo.com/,187,0,72
+1757976305763,277,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3322,119,34,34,https://www.saucedemo.com/,274,0,165
+1757976305496,98,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,658,115,34,34,http://saucedemo.com/,98,0,49
+1757976305594,446,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3323,119,34,34,https://www.saucedemo.com/,446,0,236
+1757976304747,1293,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3983,234,34,34,https://www.saucedemo.com/,303,0,49
+1757976305533,507,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3981,234,34,34,https://www.saucedemo.com/,115,0,49
+1757976304747,303,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,660,115,34,34,http://saucedemo.com/,303,0,49
+1757976305050,990,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3323,119,34,34,https://www.saucedemo.com/,990,0,729
+1757976305533,115,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,34,34,http://saucedemo.com/,115,0,49
+1757976305649,391,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3323,119,34,34,https://www.saucedemo.com/,391,0,224
+1757976305217,823,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3981,234,34,34,https://www.saucedemo.com/,100,0,50
+1757976305217,100,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,34,34,http://saucedemo.com/,100,0,50
+1757976305318,722,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3323,119,34,34,https://www.saucedemo.com/,722,0,425
+1757976304991,1047,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3981,234,34,34,https://www.saucedemo.com/,99,0,50
+1757976304991,99,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,658,115,34,34,http://saucedemo.com/,99,0,50
+1757976305090,948,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3323,119,34,34,https://www.saucedemo.com/,948,0,630
+1757976304700,1337,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3984,234,34,34,https://www.saucedemo.com/,350,0,66
+1757976304700,350,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,661,115,34,34,http://saucedemo.com/,350,0,66
+1757976305051,986,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3323,119,34,34,https://www.saucedemo.com/,986,0,687
+1757976305029,1006,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3981,234,34,34,https://www.saucedemo.com/,97,0,48
+1757976305029,97,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,34,34,http://saucedemo.com/,97,0,48
+1757976305128,907,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3323,119,34,34,https://www.saucedemo.com/,907,0,600
+1757976305187,848,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3981,234,34,34,https://www.saucedemo.com/,97,0,48
+1757976305187,97,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,658,115,34,34,http://saucedemo.com/,97,0,48
+1757976305285,750,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3323,119,34,34,https://www.saucedemo.com/,750,0,431
+1757976305415,630,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3981,234,34,34,https://www.saucedemo.com/,98,0,48
+1757976305415,98,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,34,34,http://saucedemo.com/,98,0,48
+1757976305146,899,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3981,234,34,34,https://www.saucedemo.com/,99,0,49
+1757976305146,99,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,34,34,http://saucedemo.com/,99,0,49
+1757976305246,799,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3323,119,34,34,https://www.saucedemo.com/,799,0,485
+1757976305514,531,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3323,119,34,34,https://www.saucedemo.com/,531,0,245
+1757976305069,977,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3981,234,34,34,https://www.saucedemo.com/,100,0,51
+1757976305069,100,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,658,115,34,34,http://saucedemo.com/,100,0,51
+1757976305170,876,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3323,119,34,34,https://www.saucedemo.com/,876,0,548
+1757976304949,1100,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3981,234,34,34,https://www.saucedemo.com/,102,0,49
+1757976304949,102,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,34,34,http://saucedemo.com/,102,0,49
+1757976305052,997,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3323,119,34,34,https://www.saucedemo.com/,997,0,733
+1757976304832,1221,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3983,234,35,35,https://www.saucedemo.com/,217,0,49
+1757976304832,217,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,660,115,35,35,http://saucedemo.com/,217,0,49
+1757976305049,1004,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3323,119,35,35,https://www.saucedemo.com/,1004,0,703
+1757976305110,944,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3981,234,35,35,https://www.saucedemo.com/,99,0,48
+1757976305110,99,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,658,115,35,35,http://saucedemo.com/,99,0,48
+1757976305210,844,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3323,119,35,35,https://www.saucedemo.com/,844,0,514
+1757976305296,759,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3981,234,35,35,https://www.saucedemo.com/,99,0,49
+1757976305296,99,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,658,115,35,35,http://saucedemo.com/,99,0,49
+1757976305397,658,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3323,119,35,35,https://www.saucedemo.com/,658,0,341
+1757976305336,719,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3981,234,35,35,https://www.saucedemo.com/,98,0,49
+1757976305336,98,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,35,35,http://saucedemo.com/,98,0,49
+1757976305436,619,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3323,119,35,35,https://www.saucedemo.com/,619,0,356
+1757976305375,680,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3981,234,35,35,https://www.saucedemo.com/,100,0,50
+1757976305375,100,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,658,115,35,35,http://saucedemo.com/,100,0,50
+1757976305476,579,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3323,119,35,35,https://www.saucedemo.com/,579,0,304
+1757976305651,410,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,35,35,https://www.saucedemo.com/,205,0,114
+1757976305651,205,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,35,35,http://saucedemo.com/,205,0,114
+1757976305858,203,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,35,35,https://www.saucedemo.com/,203,0,133
+1757976305655,407,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,35,35,https://www.saucedemo.com/,208,0,110
+1757976305655,208,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,35,35,http://saucedemo.com/,208,0,110
+1757976305865,197,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,35,35,https://www.saucedemo.com/,197,0,132
+1757976305255,808,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3981,234,35,35,https://www.saucedemo.com/,98,0,49
+1757976305255,98,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,35,35,http://saucedemo.com/,98,0,49
+1757976305354,709,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3323,119,35,35,https://www.saucedemo.com/,709,0,381
+1757976304909,1155,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3982,234,35,35,https://www.saucedemo.com/,136,0,48
+1757976304909,136,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,659,115,35,35,http://saucedemo.com/,136,0,48
+1757976305046,1018,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3323,119,35,35,https://www.saucedemo.com/,1018,0,711
+1757976305693,443,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3979,234,37,37,https://www.saucedemo.com/,192,0,102
+1757976305693,192,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,37,37,http://saucedemo.com/,192,0,102
+1757976305886,250,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3321,119,37,37,https://www.saucedemo.com/,250,0,145
+1757976305731,414,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,37,37,https://www.saucedemo.com/,165,0,82
+1757976305731,165,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,37,37,http://saucedemo.com/,165,0,82
+1757976305897,248,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,37,37,https://www.saucedemo.com/,248,0,132
+1757976305772,429,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,38,38,https://www.saucedemo.com/,151,0,98
+1757976305772,151,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,38,38,http://saucedemo.com/,151,0,98
+1757976305924,277,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,38,38,https://www.saucedemo.com/,275,0,208
+1757976304869,1342,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3980,234,39,39,https://www.saucedemo.com/,179,0,48
+1757976304869,179,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,659,115,39,39,http://saucedemo.com/,179,0,48
+1757976305049,1162,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,39,39,https://www.saucedemo.com/,1162,0,746
+1757976305887,404,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3979,234,41,41,https://www.saucedemo.com/,125,0,58
+1757976305887,125,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,658,115,41,41,http://saucedemo.com/,125,0,58
+1757976306013,278,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,41,41,https://www.saucedemo.com/,278,0,198
+1757976306137,153,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3979,234,41,41,https://www.saucedemo.com/,78,0,0
+1757976306137,78,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,41,41,http://saucedemo.com/,78,0,0
+1757976306215,75,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3321,119,41,41,https://www.saucedemo.com/,75,0,0
+1757976305807,412,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3979,234,39,39,https://www.saucedemo.com/,135,0,79
+1757976305807,135,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,39,39,http://saucedemo.com/,135,0,79
+1757976305943,276,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3321,119,39,39,https://www.saucedemo.com/,276,0,201
+1757976306146,165,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,41,41,https://www.saucedemo.com/,86,0,0
+1757976306146,86,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,41,41,http://saucedemo.com/,86,0,0
+1757976306232,79,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,41,41,https://www.saucedemo.com/,79,0,0
+1757976306212,150,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3979,234,43,43,https://www.saucedemo.com/,78,0,0
+1757976306212,78,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,658,115,43,43,http://saucedemo.com/,78,0,0
+1757976306291,71,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,43,43,https://www.saucedemo.com/,70,0,0
+1757976306201,162,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,43,43,https://www.saucedemo.com/,81,0,0
+1757976306201,81,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,43,43,http://saucedemo.com/,81,0,0
+1757976306282,81,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,43,43,https://www.saucedemo.com/,81,0,0
+1757976306042,386,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3979,234,44,44,https://www.saucedemo.com/,336,0,0
+1757976306042,336,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,658,115,44,44,http://saucedemo.com/,336,0,0
+1757976306378,50,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3321,119,44,44,https://www.saucedemo.com/,50,0,0
+1757976306306,128,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3979,234,44,44,https://www.saucedemo.com/,80,0,0
+1757976306306,80,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,44,44,http://saucedemo.com/,80,0,0
+1757976306386,48,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3321,119,44,44,https://www.saucedemo.com/,48,0,0
+1757976306305,131,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3979,234,44,44,https://www.saucedemo.com/,79,0,0
+1757976306305,79,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,658,115,44,44,http://saucedemo.com/,79,0,0
+1757976306384,52,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,44,44,https://www.saucedemo.com/,52,0,0
+1757976306308,130,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3979,234,44,44,https://www.saucedemo.com/,80,0,0
+1757976306308,81,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,44,44,http://saucedemo.com/,80,0,0
+1757976306389,49,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3321,119,44,44,https://www.saucedemo.com/,49,0,0
+1757976306042,400,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3979,234,44,44,https://www.saucedemo.com/,350,0,0
+1757976306042,350,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,658,115,44,44,http://saucedemo.com/,350,0,0
+1757976306393,49,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3321,119,44,44,https://www.saucedemo.com/,48,0,0
+1757976306043,402,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3979,234,45,45,https://www.saucedemo.com/,354,0,0
+1757976306043,354,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,658,115,45,45,http://saucedemo.com/,354,0,0
+1757976306397,48,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3321,119,45,45,https://www.saucedemo.com/,48,0,0
+1757976306313,132,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,45,45,https://www.saucedemo.com/,83,0,0
+1757976306313,83,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,45,45,http://saucedemo.com/,83,0,0
+1757976306397,48,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,45,45,https://www.saucedemo.com/,48,0,0
+1757976306044,403,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3979,234,45,45,https://www.saucedemo.com/,355,0,0
+1757976306044,355,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,45,45,http://saucedemo.com/,355,0,0
+1757976306399,48,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3321,119,45,45,https://www.saucedemo.com/,48,0,0
+1757976306050,405,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3979,234,45,45,https://www.saucedemo.com/,356,0,0
+1757976306050,356,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,45,45,http://saucedemo.com/,356,0,0
+1757976306406,49,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3321,119,45,45,https://www.saucedemo.com/,49,0,0
+1757976306044,411,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3979,234,45,45,https://www.saucedemo.com/,364,0,0
+1757976306044,364,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,45,45,http://saucedemo.com/,364,0,0
+1757976306408,47,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3321,119,45,45,https://www.saucedemo.com/,47,0,0
+1757976306045,415,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3979,234,45,45,https://www.saucedemo.com/,368,0,0
+1757976306043,418,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3979,234,45,45,https://www.saucedemo.com/,369,0,0
+1757976306045,368,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,658,115,45,45,http://saucedemo.com/,368,0,0
+1757976306043,369,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,45,45,http://saucedemo.com/,369,0,0
+1757976306413,47,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3321,119,45,45,https://www.saucedemo.com/,47,0,0
+1757976306412,49,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3321,119,45,45,https://www.saucedemo.com/,48,0,0
+1757976306048,414,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3979,234,45,45,https://www.saucedemo.com/,367,0,0
+1757976306048,367,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,45,45,http://saucedemo.com/,367,0,0
+1757976306415,47,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3321,119,45,45,https://www.saucedemo.com/,47,0,0
+1757976306044,421,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3979,234,45,45,https://www.saucedemo.com/,374,0,0
+1757976306044,374,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,45,45,http://saucedemo.com/,374,0,0
+1757976306418,47,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3321,119,45,45,https://www.saucedemo.com/,47,0,0
+1757976306042,428,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3979,234,45,45,https://www.saucedemo.com/,378,0,0
+1757976306042,378,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,658,115,45,45,http://saucedemo.com/,378,0,0
+1757976306421,49,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3321,119,45,45,https://www.saucedemo.com/,49,0,0
+1757976306044,427,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3979,234,45,45,https://www.saucedemo.com/,379,0,0
+1757976306044,379,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,658,115,45,45,http://saucedemo.com/,379,0,0
+1757976306423,48,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3321,119,45,45,https://www.saucedemo.com/,48,0,0
+1757976306047,425,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3979,234,45,45,https://www.saucedemo.com/,377,0,0
+1757976306047,377,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,658,115,45,45,http://saucedemo.com/,377,0,0
+1757976306424,48,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3321,119,45,45,https://www.saucedemo.com/,48,0,0
+1757976306048,425,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3979,234,45,45,https://www.saucedemo.com/,378,0,0
+1757976306048,378,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,45,45,http://saucedemo.com/,378,0,0
+1757976306426,47,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3321,119,45,45,https://www.saucedemo.com/,47,0,0
+1757976306054,424,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3979,234,45,45,https://www.saucedemo.com/,376,0,0
+1757976306054,376,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,658,115,45,45,http://saucedemo.com/,376,0,0
+1757976306431,47,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3321,119,45,45,https://www.saucedemo.com/,47,0,0
+1757976306055,429,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3979,234,46,46,https://www.saucedemo.com/,382,0,0
+1757976306055,382,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,658,115,46,46,http://saucedemo.com/,382,0,0
+1757976306437,47,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3321,119,46,46,https://www.saucedemo.com/,47,0,0
+1757976306056,430,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3979,234,46,46,https://www.saucedemo.com/,373,0,0
+1757976306056,373,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,46,46,http://saucedemo.com/,373,0,0
+1757976306430,56,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3321,119,46,46,https://www.saucedemo.com/,56,0,0
+1757976306060,434,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3979,234,46,46,https://www.saucedemo.com/,381,0,0
+1757976306060,381,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,658,115,46,46,http://saucedemo.com/,381,0,0
+1757976306441,53,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3321,119,46,46,https://www.saucedemo.com/,53,0,0
+1757976306064,431,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3979,234,46,46,https://www.saucedemo.com/,372,0,0
+1757976306064,372,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,658,115,46,46,http://saucedemo.com/,372,0,0
+1757976306436,59,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3321,119,46,46,https://www.saucedemo.com/,59,0,0
+1757976306059,437,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3979,234,46,46,https://www.saucedemo.com/,387,0,0
+1757976306059,387,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,658,115,46,46,http://saucedemo.com/,387,0,0
+1757976306446,50,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3321,119,46,46,https://www.saucedemo.com/,50,0,0
+1757976306362,140,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3979,234,46,46,https://www.saucedemo.com/,90,0,0
+1757976306362,90,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,658,115,46,46,http://saucedemo.com/,90,0,0
+1757976306452,50,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,46,46,https://www.saucedemo.com/,49,0,0
+1757976306063,446,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3979,234,46,46,https://www.saucedemo.com/,383,0,0
+1757976306063,383,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,46,46,http://saucedemo.com/,383,0,0
+1757976306447,62,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3321,119,46,46,https://www.saucedemo.com/,62,0,0
+1757976306042,471,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3979,234,46,46,https://www.saucedemo.com/,405,0,0
+1757976306042,405,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,46,46,http://saucedemo.com/,405,0,0
+1757976306447,66,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3321,119,46,46,https://www.saucedemo.com/,66,0,0
+1757976306363,159,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,47,47,https://www.saucedemo.com/,109,0,0
+1757976306363,109,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,47,47,http://saucedemo.com/,109,0,0
+1757976306472,50,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,47,47,https://www.saucedemo.com/,49,0,0
+1757976306428,124,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3979,234,47,47,https://www.saucedemo.com/,77,0,0
+1757976306428,77,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,658,115,47,47,http://saucedemo.com/,77,0,0
+1757976306505,47,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3321,119,47,47,https://www.saucedemo.com/,47,0,0
+1757976306436,126,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3979,234,48,48,https://www.saucedemo.com/,78,0,0
+1757976306436,78,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,658,115,48,48,http://saucedemo.com/,78,0,0
+1757976306514,48,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976306435,128,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3979,234,48,48,https://www.saucedemo.com/,76,0,0
+1757976306435,76,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,48,48,http://saucedemo.com/,76,0,0
+1757976306511,52,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3321,119,48,48,https://www.saucedemo.com/,52,0,0
+1757976306445,125,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3979,234,48,48,https://www.saucedemo.com/,76,0,0
+1757976306445,76,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,658,115,48,48,http://saucedemo.com/,76,0,0
+1757976306521,49,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3321,119,48,48,https://www.saucedemo.com/,49,0,0
+1757976306442,129,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3979,234,48,48,https://www.saucedemo.com/,75,0,0
+1757976306442,75,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,658,115,48,48,http://saucedemo.com/,75,0,0
+1757976306517,54,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3321,119,48,48,https://www.saucedemo.com/,50,0,0
+1757976306447,125,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,48,48,https://www.saucedemo.com/,76,0,0
+1757976306447,76,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,48,48,http://saucedemo.com/,76,0,0
+1757976306523,49,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976306062,515,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,48,48,https://www.saucedemo.com/,425,0,0
+1757976306062,426,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,48,48,http://saucedemo.com/,425,0,0
+1757976306488,89,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,48,48,https://www.saucedemo.com/,88,0,0
+1757976306063,514,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,48,48,https://www.saucedemo.com/,427,0,0
+1757976306063,427,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,48,48,http://saucedemo.com/,427,0,0
+1757976306490,87,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,48,48,https://www.saucedemo.com/,87,0,0
+1757976306448,130,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3979,234,48,48,https://www.saucedemo.com/,80,0,0
+1757976306448,80,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,48,48,http://saucedemo.com/,80,0,0
+1757976306528,50,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3321,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976306457,127,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3979,234,48,48,https://www.saucedemo.com/,80,0,0
+1757976306457,80,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,48,48,http://saucedemo.com/,80,0,0
+1757976306537,47,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976306456,130,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3979,234,48,48,https://www.saucedemo.com/,80,0,0
+1757976306456,80,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,48,48,http://saucedemo.com/,80,0,0
+1757976306536,50,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3321,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976306461,127,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3979,234,48,48,https://www.saucedemo.com/,79,0,0
+1757976306461,79,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,48,48,http://saucedemo.com/,79,0,0
+1757976306540,48,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3321,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976306461,127,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3979,234,48,48,https://www.saucedemo.com/,78,0,0
+1757976306461,78,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,658,115,48,48,http://saucedemo.com/,78,0,0
+1757976306539,49,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976306463,126,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3979,234,48,48,https://www.saucedemo.com/,79,0,0
+1757976306463,79,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,48,48,http://saucedemo.com/,79,0,0
+1757976306542,47,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976306465,127,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3979,234,48,48,https://www.saucedemo.com/,78,0,0
+1757976306465,78,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,48,48,http://saucedemo.com/,78,0,0
+1757976306543,49,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976306470,125,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3979,234,48,48,https://www.saucedemo.com/,76,0,0
+1757976306470,76,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,658,115,48,48,http://saucedemo.com/,76,0,0
+1757976306546,49,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976306471,129,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3979,234,49,49,https://www.saucedemo.com/,78,0,0
+1757976306471,78,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,658,115,49,49,http://saucedemo.com/,78,0,0
+1757976306549,51,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3321,119,49,49,https://www.saucedemo.com/,51,0,0
+1757976306472,128,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3979,234,49,49,https://www.saucedemo.com/,81,0,0
+1757976306472,81,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,658,115,49,49,http://saucedemo.com/,81,0,0
+1757976306553,47,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3321,119,49,49,https://www.saucedemo.com/,47,0,0
+1757976306440,161,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3979,234,49,49,https://www.saucedemo.com/,74,0,0
+1757976306440,74,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,49,49,http://saucedemo.com/,74,0,0
+1757976306514,87,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3321,119,49,49,https://www.saucedemo.com/,86,0,0
+1757976306474,132,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3979,234,49,49,https://www.saucedemo.com/,82,0,0
+1757976306474,82,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,49,49,http://saucedemo.com/,82,0,0
+1757976306556,50,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3321,119,49,49,https://www.saucedemo.com/,47,0,0
+1757976306479,134,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3979,234,49,49,https://www.saucedemo.com/,83,0,0
+1757976306479,83,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,658,115,49,49,http://saucedemo.com/,83,0,0
+1757976306562,51,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3321,119,49,49,https://www.saucedemo.com/,49,0,0
+1757976306485,137,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3979,234,49,49,https://www.saucedemo.com/,87,0,0
+1757976306485,87,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,658,115,49,49,http://saucedemo.com/,87,0,0
+1757976306572,50,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3321,119,49,49,https://www.saucedemo.com/,47,0,0
+1757976306486,137,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3979,234,49,49,https://www.saucedemo.com/,87,0,0
+1757976306486,87,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,49,49,http://saucedemo.com/,87,0,0
+1757976306575,48,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3321,119,49,49,https://www.saucedemo.com/,48,0,0
+1757976306495,134,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3979,234,49,49,https://www.saucedemo.com/,87,0,0
+1757976306495,87,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,658,115,49,49,http://saucedemo.com/,87,0,0
+1757976306582,47,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3321,119,49,49,https://www.saucedemo.com/,47,0,0
+1757976306496,139,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3979,234,49,49,https://www.saucedemo.com/,92,0,0
+1757976306496,92,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,658,115,49,49,http://saucedemo.com/,92,0,0
+1757976306588,47,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3321,119,49,49,https://www.saucedemo.com/,47,0,0
+1757976306497,142,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3979,234,50,50,https://www.saucedemo.com/,93,0,0
+1757976306504,136,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3979,234,50,50,https://www.saucedemo.com/,88,0,0
+1757976306497,93,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,658,115,50,50,http://saucedemo.com/,93,0,0
+1757976306504,88,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,658,115,50,50,http://saucedemo.com/,88,0,0
+1757976306590,49,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976306592,48,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306514,135,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3979,234,50,50,https://www.saucedemo.com/,86,0,0
+1757976306514,86,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,50,50,http://saucedemo.com/,86,0,0
+1757976306600,49,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306510,140,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3979,234,50,50,https://www.saucedemo.com/,86,0,0
+1757976306510,86,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,50,50,http://saucedemo.com/,86,0,0
+1757976306596,54,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3321,119,50,50,https://www.saucedemo.com/,52,0,0
+1757976306523,128,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,50,50,https://www.saucedemo.com/,81,0,0
+1757976306523,81,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,50,50,http://saucedemo.com/,81,0,0
+1757976306604,47,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306553,119,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3979,234,50,50,https://www.saucedemo.com/,71,0,0
+1757976306553,71,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,658,115,50,50,http://saucedemo.com/,71,0,0
+1757976306624,48,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306562,119,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3979,234,50,50,https://www.saucedemo.com/,65,0,0
+1757976306562,65,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,658,115,50,50,http://saucedemo.com/,65,0,0
+1757976306628,53,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,50,50,https://www.saucedemo.com/,50,0,0
+1757976306570,119,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3979,234,50,50,https://www.saucedemo.com/,71,0,0
+1757976306570,71,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,658,115,50,50,http://saucedemo.com/,71,0,0
+1757976306641,48,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306564,126,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3979,234,50,50,https://www.saucedemo.com/,72,0,0
+1757976306564,72,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,50,50,http://saucedemo.com/,72,0,0
+1757976306637,53,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3321,119,50,50,https://www.saucedemo.com/,51,0,0
+1757976306571,124,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3979,234,50,50,https://www.saucedemo.com/,74,0,0
+1757976306571,74,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,658,115,50,50,http://saucedemo.com/,74,0,0
+1757976306645,50,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306572,124,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,50,50,https://www.saucedemo.com/,76,0,0
+1757976306572,76,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,50,50,http://saucedemo.com/,76,0,0
+1757976306649,47,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306584,117,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3979,234,50,50,https://www.saucedemo.com/,70,0,0
+1757976306584,70,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,50,50,http://saucedemo.com/,70,0,0
+1757976306654,47,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306577,127,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,50,50,https://www.saucedemo.com/,79,0,0
+1757976306577,79,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,50,50,http://saucedemo.com/,79,0,0
+1757976306656,48,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306578,129,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3979,234,50,50,https://www.saucedemo.com/,83,0,0
+1757976306578,83,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,50,50,http://saucedemo.com/,83,0,0
+1757976306661,46,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306577,131,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,50,50,https://www.saucedemo.com/,82,0,0
+1757976306577,82,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,50,50,http://saucedemo.com/,82,0,0
+1757976306659,49,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306586,129,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3979,234,50,50,https://www.saucedemo.com/,79,0,0
+1757976306586,79,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,50,50,http://saucedemo.com/,79,0,0
+1757976306665,50,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306588,130,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3979,234,50,50,https://www.saucedemo.com/,82,0,0
+1757976306588,82,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,50,50,http://saucedemo.com/,82,0,0
+1757976306670,48,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306588,131,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3979,234,50,50,https://www.saucedemo.com/,79,0,0
+1757976306588,79,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,658,115,50,50,http://saucedemo.com/,79,0,0
+1757976306667,52,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306592,130,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3979,234,50,50,https://www.saucedemo.com/,81,0,0
+1757976306592,81,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,50,50,http://saucedemo.com/,81,0,0
+1757976306673,49,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976306595,129,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3979,234,50,50,https://www.saucedemo.com/,79,0,0
+1757976306595,79,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,658,115,50,50,http://saucedemo.com/,79,0,0
+1757976306674,50,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976306600,124,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3979,234,50,50,https://www.saucedemo.com/,76,0,0
+1757976306600,76,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,658,115,50,50,http://saucedemo.com/,76,0,0
+1757976306676,48,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306590,133,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3979,234,50,50,https://www.saucedemo.com/,81,0,0
+1757976306590,81,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,50,50,http://saucedemo.com/,81,0,0
+1757976306671,52,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3321,119,50,50,https://www.saucedemo.com/,52,0,0
+1757976306649,109,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3979,234,50,50,https://www.saucedemo.com/,61,0,0
+1757976306651,110,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3980,234,50,50,https://www.saucedemo.com/,62,0,0
+1757976306651,62,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,50,50,http://saucedemo.com/,62,0,0
+1757976306649,61,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,50,50,http://saucedemo.com/,61,0,0
+1757976306714,47,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306710,48,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306651,107,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,50,50,https://www.saucedemo.com/,60,0,0
+1757976306651,60,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,50,50,http://saucedemo.com/,60,0,0
+1757976306711,47,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306641,113,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3979,234,50,50,https://www.saucedemo.com/,64,0,0
+1757976306641,64,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,658,115,50,50,http://saucedemo.com/,64,0,0
+1757976306705,49,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306641,110,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3979,234,50,50,https://www.saucedemo.com/,62,0,0
+1757976306641,62,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,658,115,50,50,http://saucedemo.com/,62,0,0
+1757976306703,48,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306635,112,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3980,234,50,50,https://www.saucedemo.com/,64,0,0
+1757976306635,64,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,658,115,50,50,http://saucedemo.com/,64,0,0
+1757976306699,48,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306629,114,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3979,234,50,50,https://www.saucedemo.com/,65,0,0
+1757976306624,118,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3979,234,50,50,https://www.saucedemo.com/,68,0,0
+1757976306629,65,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,658,115,50,50,http://saucedemo.com/,65,0,0
+1757976306624,68,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,50,50,http://saucedemo.com/,68,0,0
+1757976306694,49,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976306692,50,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3321,119,50,50,https://www.saucedemo.com/,50,0,0
+1757976306622,119,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3979,234,50,50,https://www.saucedemo.com/,67,0,0
+1757976306622,67,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,658,115,50,50,http://saucedemo.com/,67,0,0
+1757976306689,52,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3321,119,50,50,https://www.saucedemo.com/,52,0,0
+1757976306606,134,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3979,234,50,50,https://www.saucedemo.com/,78,0,0
+1757976306606,78,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,50,50,http://saucedemo.com/,78,0,0
+1757976306684,56,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3321,119,50,50,https://www.saucedemo.com/,56,0,0
+1757976306613,127,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3979,234,50,50,https://www.saucedemo.com/,73,0,0
+1757976306613,73,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,658,115,50,50,http://saucedemo.com/,73,0,0
+1757976306687,53,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3321,119,50,50,https://www.saucedemo.com/,53,0,0
+1757976306601,129,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3979,234,50,50,https://www.saucedemo.com/,81,0,0
+1757976306601,81,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,50,50,http://saucedemo.com/,81,0,0
+1757976306601,127,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3979,234,50,50,https://www.saucedemo.com/,79,0,0
+1757976306682,48,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306601,79,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,658,115,50,50,http://saucedemo.com/,79,0,0
+1757976306680,48,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306672,105,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3979,234,50,50,https://www.saucedemo.com/,53,0,0
+1757976306672,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,658,115,50,50,http://saucedemo.com/,53,0,0
+1757976306725,52,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976306696,95,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306696,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306743,48,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306681,110,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3980,234,50,50,https://www.saucedemo.com/,60,0,0
+1757976306681,60,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,659,115,50,50,http://saucedemo.com/,60,0,0
+1757976306741,50,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976306690,101,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3980,234,50,50,https://www.saucedemo.com/,52,0,0
+1757976306690,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,50,50,http://saucedemo.com/,52,0,0
+1757976306742,49,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306689,104,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3979,234,50,50,https://www.saucedemo.com/,51,0,0
+1757976306689,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,658,115,50,50,http://saucedemo.com/,51,0,0
+1757976306740,53,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3321,119,50,50,https://www.saucedemo.com/,50,0,0
+1757976306695,100,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3979,234,50,50,https://www.saucedemo.com/,51,0,0
+1757976306695,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,658,115,50,50,http://saucedemo.com/,51,0,0
+1757976306746,49,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306701,95,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306701,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306748,48,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306708,94,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306708,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306755,47,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306704,99,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,50,50,https://www.saucedemo.com/,50,0,0
+1757976306704,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,50,50,http://saucedemo.com/,50,0,0
+1757976306754,49,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306708,101,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,50,50,https://www.saucedemo.com/,53,0,0
+1757976306708,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,50,50,http://saucedemo.com/,53,0,0
+1757976306761,48,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306715,100,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3979,234,50,50,https://www.saucedemo.com/,51,0,0
+1757976306715,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,50,50,http://saucedemo.com/,51,0,0
+1757976306766,49,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306721,104,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3979,234,50,50,https://www.saucedemo.com/,56,0,0
+1757976306721,56,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,658,115,50,50,http://saucedemo.com/,56,0,0
+1757976306778,47,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306723,103,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3980,234,50,50,https://www.saucedemo.com/,56,0,0
+1757976306723,56,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,50,50,http://saucedemo.com/,56,0,0
+1757976306779,47,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306719,108,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3979,234,50,50,https://www.saucedemo.com/,59,0,0
+1757976306719,59,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,50,50,http://saucedemo.com/,59,0,0
+1757976306778,49,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306725,102,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3979,234,50,50,https://www.saucedemo.com/,54,0,0
+1757976306725,54,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,658,115,50,50,http://saucedemo.com/,54,0,0
+1757976306779,48,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306724,105,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3979,234,50,50,https://www.saucedemo.com/,58,0,0
+1757976306724,58,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,658,115,50,50,http://saucedemo.com/,58,0,0
+1757976306782,47,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306725,106,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3980,234,50,50,https://www.saucedemo.com/,58,0,0
+1757976306725,58,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,50,50,http://saucedemo.com/,58,0,0
+1757976306784,47,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976305966,902,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3979,234,50,50,https://www.saucedemo.com/,169,0,56
+1757976305966,169,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,658,115,50,50,http://saucedemo.com/,169,0,56
+1757976306138,730,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3321,119,50,50,https://www.saucedemo.com/,682,0,169
+1757976306778,94,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306778,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976306825,47,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306777,95,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306777,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306824,48,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306777,96,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306777,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306824,49,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306777,96,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306776,97,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3981,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306777,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306776,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,659,115,50,50,http://saucedemo.com/,48,0,0
+1757976306824,49,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976306825,48,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306775,99,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,50,50,https://www.saucedemo.com/,49,0,0
+1757976306775,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,50,50,http://saucedemo.com/,49,0,0
+1757976306824,50,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306777,97,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306777,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306824,50,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306774,100,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3979,234,50,50,https://www.saucedemo.com/,52,0,0
+1757976306774,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,50,50,http://saucedemo.com/,52,0,0
+1757976306827,47,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306777,101,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3981,234,50,50,https://www.saucedemo.com/,53,0,0
+1757976306777,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,659,115,50,50,http://saucedemo.com/,53,0,0
+1757976306830,48,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306776,102,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3979,234,50,50,https://www.saucedemo.com/,53,0,0
+1757976306776,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,658,115,50,50,http://saucedemo.com/,53,0,0
+1757976306829,49,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976306776,103,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3980,234,50,50,https://www.saucedemo.com/,55,0,0
+1757976306776,55,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,658,115,50,50,http://saucedemo.com/,55,0,0
+1757976306831,48,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306777,102,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3979,234,50,50,https://www.saucedemo.com/,52,0,0
+1757976306777,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,50,50,http://saucedemo.com/,52,0,0
+1757976306829,50,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306777,102,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3981,234,50,50,https://www.saucedemo.com/,55,0,0
+1757976306777,56,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,659,115,50,50,http://saucedemo.com/,55,0,0
+1757976306833,46,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3322,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306775,105,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3980,234,50,50,https://www.saucedemo.com/,55,0,0
+1757976306775,55,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,50,50,http://saucedemo.com/,55,0,0
+1757976306830,50,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306792,94,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306792,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976306839,47,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306793,94,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306793,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306840,47,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306792,95,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3980,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306792,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306839,48,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306792,96,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306792,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976306840,48,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306795,95,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306795,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,659,115,50,50,http://saucedemo.com/,48,0,0
+1757976306843,47,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306797,95,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306797,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306844,48,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306803,93,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306803,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306849,47,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306802,95,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306802,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306849,48,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306810,94,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306810,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306857,47,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306815,97,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306815,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306862,50,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306828,94,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306828,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306875,47,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306826,97,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3981,234,50,50,https://www.saucedemo.com/,49,0,0
+1757976306826,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,659,115,50,50,http://saucedemo.com/,49,0,0
+1757976306875,48,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306826,99,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3980,234,50,50,https://www.saucedemo.com/,50,0,0
+1757976306826,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,50,50,http://saucedemo.com/,50,0,0
+1757976306876,49,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306830,95,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306830,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306877,48,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306827,100,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3979,234,50,50,https://www.saucedemo.com/,50,0,0
+1757976306827,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,50,50,http://saucedemo.com/,50,0,0
+1757976306877,50,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306831,97,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3980,234,50,50,https://www.saucedemo.com/,50,0,0
+1757976306831,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,50,50,http://saucedemo.com/,50,0,0
+1757976306881,47,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306869,96,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306869,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306917,48,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306873,95,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3979,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306873,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306919,49,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306873,95,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306873,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306920,48,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306874,95,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306874,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306921,48,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306874,95,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306874,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306921,48,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306873,97,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306873,97,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3981,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306873,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976306920,50,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306873,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976306920,50,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306874,96,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306874,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306921,49,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306878,94,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3981,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306878,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976306925,47,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306879,94,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306879,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306926,47,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306878,96,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3979,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306878,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306924,50,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306879,95,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306879,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976306927,47,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306880,96,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3980,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306880,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306927,49,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306880,97,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3981,234,50,50,https://www.saucedemo.com/,50,0,0
+1757976306880,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,659,115,50,50,http://saucedemo.com/,50,0,0
+1757976306930,47,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3322,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306886,95,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3980,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306886,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,659,115,50,50,http://saucedemo.com/,46,0,0
+1757976306932,49,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306887,94,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306887,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306934,47,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306887,95,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306887,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306934,48,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306009,973,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3979,234,50,50,https://www.saucedemo.com/,211,0,136
+1757976306009,211,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,50,50,http://saucedemo.com/,211,0,136
+1757976306221,761,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3321,119,50,50,https://www.saucedemo.com/,759,0,711
+1757976306890,94,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306890,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976306937,47,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306889,96,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306889,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306936,49,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306893,95,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3980,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306893,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306939,49,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306897,94,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306897,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306944,47,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306897,95,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306897,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306944,48,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306904,94,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306904,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306951,47,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306912,96,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306912,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306959,49,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306922,96,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306922,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306969,49,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306923,96,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3981,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306923,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,659,115,50,50,http://saucedemo.com/,48,0,0
+1757976306971,48,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306925,94,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306925,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306972,47,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306926,93,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3979,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306926,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976306972,47,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306927,94,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306927,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976306974,47,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306928,97,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306928,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976306976,49,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306968,94,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306968,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307015,47,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306968,94,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306968,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307015,47,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306966,97,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3981,234,50,50,https://www.saucedemo.com/,49,0,0
+1757976306966,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,659,115,50,50,http://saucedemo.com/,49,0,0
+1757976307015,48,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306970,94,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3981,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306970,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,659,115,50,50,http://saucedemo.com/,46,0,0
+1757976307016,48,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306969,96,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306969,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307016,49,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306969,95,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306969,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307016,48,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306970,96,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306970,96,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306970,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976306970,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307017,49,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307017,49,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306972,95,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3981,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306972,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,659,115,50,50,http://saucedemo.com/,48,0,0
+1757976307020,47,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306974,95,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306974,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307022,47,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306973,96,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3979,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306973,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307021,48,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306977,93,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3981,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306977,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307024,46,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3322,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306974,98,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3979,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306974,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307022,50,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,50,50,https://www.saucedemo.com/,50,0,0
+1757976306976,96,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306976,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307024,48,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306982,94,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306982,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307029,47,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306981,96,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306981,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307028,49,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306982,97,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306982,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307030,49,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306983,97,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3979,234,50,50,https://www.saucedemo.com/,49,0,0
+1757976306983,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,50,50,http://saucedemo.com/,49,0,0
+1757976307032,48,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976306985,95,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3980,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306985,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,659,115,50,50,http://saucedemo.com/,46,0,0
+1757976307031,49,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306985,97,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3979,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976306985,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307033,49,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306988,95,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3980,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306988,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976307035,48,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3322,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306992,95,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3979,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976306992,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976307038,49,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306992,95,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306992,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307039,48,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976306999,94,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976306999,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307046,47,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976307008,95,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307008,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307056,47,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307018,95,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307018,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307065,48,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307019,94,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3981,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976307019,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,659,115,50,50,http://saucedemo.com/,46,0,0
+1757976307065,48,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976307020,94,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307020,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307067,47,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307022,94,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3979,234,50,50,https://www.saucedemo.com/,46,0,0
+1757976307022,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,50,50,http://saucedemo.com/,46,0,0
+1757976307069,47,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976307019,97,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976307019,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307067,49,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976307025,94,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307025,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307072,47,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976306873,281,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3980,234,50,50,https://www.saucedemo.com/,234,0,0
+1757976306873,234,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,659,115,50,50,http://saucedemo.com/,234,0,0
+1757976307107,47,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307063,95,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3979,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976307063,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307111,47,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3321,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307064,94,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3981,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307064,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307111,47,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307063,96,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307063,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307110,49,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307065,97,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976307065,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307113,49,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3322,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976307065,99,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3979,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307065,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307115,49,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976307067,97,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3981,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307066,98,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3979,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976307067,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307066,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307114,50,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3322,119,50,50,https://www.saucedemo.com/,50,0,0
+1757976307114,50,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976307063,102,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3981,234,50,50,https://www.saucedemo.com/,52,0,0
+1757976307069,96,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3979,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976307063,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,659,115,50,50,http://saucedemo.com/,52,0,0
+1757976307069,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307115,50,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976307117,48,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3321,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976307066,100,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976307066,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,659,115,50,50,http://saucedemo.com/,48,0,0
+1757976307114,52,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3321,119,50,50,https://www.saucedemo.com/,50,0,0
+1757976307071,96,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3981,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307071,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307118,49,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307072,96,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307072,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,50,50,http://saucedemo.com/,47,0,0
+1757976307119,49,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3322,119,50,50,https://www.saucedemo.com/,48,0,0
+1757976307072,96,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307072,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307119,49,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3321,119,50,50,https://www.saucedemo.com/,49,0,0
+1757976307069,99,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3980,234,50,50,https://www.saucedemo.com/,48,0,0
+1757976307069,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,658,115,50,50,http://saucedemo.com/,48,0,0
+1757976307118,50,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3322,119,50,50,https://www.saucedemo.com/,47,0,0
+1757976307077,94,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307077,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307124,47,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976307079,93,HTTP Request,200,OK,Saucedemo_QA 1-26,text,true,,3981,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307079,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-26,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307126,46,HTTP Request-1,200,OK,Saucedemo_QA 1-26,text,true,,3322,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976307078,94,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3980,234,50,50,https://www.saucedemo.com/,47,0,0
+1757976307078,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,659,115,50,50,http://saucedemo.com/,47,0,0
+1757976307125,47,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3321,119,50,50,https://www.saucedemo.com/,46,0,0
+1757976307081,94,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3980,234,49,49,https://www.saucedemo.com/,46,0,0
+1757976307081,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,659,115,49,49,http://saucedemo.com/,46,0,0
+1757976307127,48,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3321,119,49,49,https://www.saucedemo.com/,47,0,0
+1757976307082,94,HTTP Request,200,OK,Saucedemo_QA 1-27,text,true,,3981,234,49,49,https://www.saucedemo.com/,46,0,0
+1757976307082,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-27,text,true,,659,115,49,49,http://saucedemo.com/,46,0,0
+1757976307128,48,HTTP Request-1,200,OK,Saucedemo_QA 1-27,text,true,,3322,119,49,49,https://www.saucedemo.com/,48,0,0
+1757976307080,98,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3980,234,48,48,https://www.saucedemo.com/,49,0,0
+1757976307080,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,48,48,http://saucedemo.com/,49,0,0
+1757976307129,49,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3322,119,48,48,https://www.saucedemo.com/,49,0,0
+1757976307083,97,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3980,234,48,48,https://www.saucedemo.com/,46,0,0
+1757976307083,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,658,115,48,48,http://saucedemo.com/,46,0,0
+1757976307129,51,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3322,119,48,48,https://www.saucedemo.com/,50,0,0
+1757976307087,94,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3979,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307087,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307134,47,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307087,95,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307087,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307134,48,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976307093,95,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307093,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307140,48,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,48,48,https://www.saucedemo.com/,46,0,0
+1757976307103,94,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3979,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307103,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307150,47,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307113,96,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3980,234,48,48,https://www.saucedemo.com/,49,0,0
+1757976307113,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,659,115,48,48,http://saucedemo.com/,49,0,0
+1757976307162,47,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307114,97,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3981,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307114,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,659,115,48,48,http://saucedemo.com/,48,0,0
+1757976307162,49,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307116,95,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3979,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307116,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,658,115,48,48,http://saucedemo.com/,48,0,0
+1757976307164,47,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307115,97,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3980,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307115,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,659,115,48,48,http://saucedemo.com/,48,0,0
+1757976307163,49,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307117,98,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3980,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307117,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,658,115,48,48,http://saucedemo.com/,48,0,0
+1757976307165,50,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3322,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976307120,95,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3980,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307120,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307167,48,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307188,95,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3979,234,48,48,https://www.saucedemo.com/,46,0,0
+1757976307188,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,658,115,48,48,http://saucedemo.com/,46,0,0
+1757976307234,49,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307178,104,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3980,234,48,48,https://www.saucedemo.com/,55,0,0
+1757976307178,55,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,48,48,http://saucedemo.com/,55,0,0
+1757976307233,49,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3322,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976307183,95,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3979,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307183,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307230,48,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3321,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976307180,97,HTTP Request,200,OK,Saucedemo_QA 1-14,text,true,,3981,234,48,48,https://www.saucedemo.com/,49,0,0
+1757976307180,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-14,text,true,,659,115,48,48,http://saucedemo.com/,49,0,0
+1757976307229,48,HTTP Request-1,200,OK,Saucedemo_QA 1-14,text,true,,3322,119,48,48,https://www.saucedemo.com/,46,0,0
+1757976307175,101,HTTP Request,200,OK,Saucedemo_QA 1-3,text,true,,3981,234,48,48,https://www.saucedemo.com/,53,0,0
+1757976307175,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-3,text,true,,659,115,48,48,http://saucedemo.com/,53,0,0
+1757976307228,48,HTTP Request-1,200,OK,Saucedemo_QA 1-3,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307181,95,HTTP Request,200,OK,Saucedemo_QA 1-1,text,true,,3980,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307181,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-1,text,true,,658,115,48,48,http://saucedemo.com/,48,0,0
+1757976307229,47,HTTP Request-1,200,OK,Saucedemo_QA 1-1,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307174,94,HTTP Request,200,OK,Saucedemo_QA 1-31,text,true,,3981,234,48,48,https://www.saucedemo.com/,46,0,0
+1757976307174,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-31,text,true,,659,115,48,48,http://saucedemo.com/,46,0,0
+1757976307220,48,HTTP Request-1,200,OK,Saucedemo_QA 1-31,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307171,95,HTTP Request,200,OK,Saucedemo_QA 1-2,text,true,,3981,234,48,48,https://www.saucedemo.com/,46,0,0
+1757976307171,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-2,text,true,,659,115,48,48,http://saucedemo.com/,46,0,0
+1757976307218,48,HTTP Request-1,200,OK,Saucedemo_QA 1-2,text,true,,3322,119,48,48,https://www.saucedemo.com/,46,0,0
+1757976307169,95,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3980,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307169,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307216,48,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3322,119,48,48,https://www.saucedemo.com/,46,0,0
+1757976307168,95,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3980,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307168,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307215,48,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307166,97,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3979,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307166,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,658,115,48,48,http://saucedemo.com/,48,0,0
+1757976307214,49,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307166,97,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3980,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307166,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,659,115,48,48,http://saucedemo.com/,48,0,0
+1757976307214,49,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3321,119,48,48,https://www.saucedemo.com/,46,0,0
+1757976307166,97,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3981,234,48,48,https://www.saucedemo.com/,49,0,0
+1757976307166,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,659,115,48,48,http://saucedemo.com/,49,0,0
+1757976307215,48,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,48,48,https://www.saucedemo.com/,48,0,0
+1757976307167,95,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3981,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307167,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,659,115,48,48,http://saucedemo.com/,47,0,0
+1757976307214,48,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3322,119,48,48,https://www.saucedemo.com/,46,0,0
+1757976307168,94,HTTP Request,200,OK,Saucedemo_QA 1-5,text,true,,3981,234,48,48,https://www.saucedemo.com/,46,0,0
+1757976307168,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-5,text,true,,659,115,48,48,http://saucedemo.com/,46,0,0
+1757976307214,48,HTTP Request-1,200,OK,Saucedemo_QA 1-5,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307164,97,HTTP Request,200,OK,Saucedemo_QA 1-28,text,true,,3981,234,48,48,https://www.saucedemo.com/,49,0,0
+1757976307164,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-28,text,true,,659,115,48,48,http://saucedemo.com/,49,0,0
+1757976307213,48,HTTP Request-1,200,OK,Saucedemo_QA 1-28,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307165,96,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3979,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307165,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,658,115,48,48,http://saucedemo.com/,48,0,0
+1757976307213,48,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307164,96,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3981,234,48,48,https://www.saucedemo.com/,49,0,0
+1757976307164,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,659,115,48,48,http://saucedemo.com/,49,0,0
+1757976307213,47,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307162,95,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3980,234,48,48,https://www.saucedemo.com/,48,0,0
+1757976307162,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,658,115,48,48,http://saucedemo.com/,48,0,0
+1757976307210,47,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307159,95,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3980,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307159,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307206,48,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307159,94,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3981,234,48,48,https://www.saucedemo.com/,46,0,0
+1757976307159,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,659,115,48,48,http://saucedemo.com/,46,0,0
+1757976307205,48,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3322,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307159,94,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3979,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307159,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,658,115,48,48,http://saucedemo.com/,47,0,0
+1757976307206,47,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3321,119,48,48,https://www.saucedemo.com/,47,0,0
+1757976307155,93,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3980,234,48,48,https://www.saucedemo.com/,47,0,0
+1757976307155,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,659,115,48,48,http://saucedemo.com/,47,0,0
+1757976307202,46,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3321,119,48,48,https://www.saucedemo.com/,46,0,0
+1757976307197,104,HTTP Request,200,OK,Saucedemo_QA 1-7,text,true,,3981,234,41,41,https://www.saucedemo.com/,48,0,0
+1757976307197,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-7,text,true,,659,115,41,41,http://saucedemo.com/,48,0,0
+1757976307245,56,HTTP Request-1,200,OK,Saucedemo_QA 1-7,text,true,,3322,119,41,41,https://www.saucedemo.com/,56,0,0
+1757976307211,96,HTTP Request,200,OK,Saucedemo_QA 1-22,text,true,,3981,234,40,40,https://www.saucedemo.com/,47,0,0
+1757976307211,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-22,text,true,,659,115,40,40,http://saucedemo.com/,47,0,0
+1757976307258,49,HTTP Request-1,200,OK,Saucedemo_QA 1-22,text,true,,3322,119,40,40,https://www.saucedemo.com/,48,0,0
+1757976307210,100,HTTP Request,200,OK,Saucedemo_QA 1-20,text,true,,3981,234,39,39,https://www.saucedemo.com/,47,0,0
+1757976307212,98,HTTP Request,200,OK,Saucedemo_QA 1-8,text,true,,3981,234,39,39,https://www.saucedemo.com/,46,0,0
+1757976307210,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-20,text,true,,659,115,39,39,http://saucedemo.com/,47,0,0
+1757976307212,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-8,text,true,,659,115,39,39,http://saucedemo.com/,46,0,0
+1757976307257,53,HTTP Request-1,200,OK,Saucedemo_QA 1-20,text,true,,3322,119,39,39,https://www.saucedemo.com/,48,0,0
+1757976307258,52,HTTP Request-1,200,OK,Saucedemo_QA 1-8,text,true,,3322,119,39,39,https://www.saucedemo.com/,48,0,0
+1757976307211,100,HTTP Request,200,OK,Saucedemo_QA 1-13,text,true,,3981,234,37,37,https://www.saucedemo.com/,46,0,0
+1757976307211,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-13,text,true,,659,115,37,37,http://saucedemo.com/,46,0,0
+1757976307258,53,HTTP Request-1,200,OK,Saucedemo_QA 1-13,text,true,,3322,119,37,37,https://www.saucedemo.com/,47,0,0
+1757976307215,99,HTTP Request,200,OK,Saucedemo_QA 1-9,text,true,,3981,234,36,36,https://www.saucedemo.com/,46,0,0
+1757976307215,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-9,text,true,,659,115,36,36,http://saucedemo.com/,46,0,0
+1757976307261,53,HTTP Request-1,200,OK,Saucedemo_QA 1-9,text,true,,3322,119,36,36,https://www.saucedemo.com/,53,0,0
+1757976307216,100,HTTP Request,200,OK,Saucedemo_QA 1-19,text,true,,3981,234,36,36,https://www.saucedemo.com/,47,0,0
+1757976307216,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-19,text,true,,659,115,36,36,http://saucedemo.com/,47,0,0
+1757976307263,53,HTTP Request-1,200,OK,Saucedemo_QA 1-19,text,true,,3322,119,36,36,https://www.saucedemo.com/,52,0,0
+1757976307285,109,HTTP Request,200,OK,Saucedemo_QA 1-24,text,true,,3981,234,34,34,https://www.saucedemo.com/,62,0,0
+1757976307285,62,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-24,text,true,,659,115,34,34,http://saucedemo.com/,62,0,0
+1757976307347,47,HTTP Request-1,200,OK,Saucedemo_QA 1-24,text,true,,3322,119,34,34,https://www.saucedemo.com/,47,0,0
+1757976307293,106,HTTP Request,200,OK,Saucedemo_QA 1-6,text,true,,3981,234,33,33,https://www.saucedemo.com/,55,0,0
+1757976307293,55,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-6,text,true,,659,115,33,33,http://saucedemo.com/,55,0,0
+1757976307348,51,HTTP Request-1,200,OK,Saucedemo_QA 1-6,text,true,,3322,119,33,33,https://www.saucedemo.com/,51,0,0
+1757976307299,100,HTTP Request,200,OK,Saucedemo_QA 1-4,text,true,,3981,234,33,33,https://www.saucedemo.com/,49,0,0
+1757976307299,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-4,text,true,,659,115,33,33,http://saucedemo.com/,49,0,0
+1757976307348,51,HTTP Request-1,200,OK,Saucedemo_QA 1-4,text,true,,3322,119,33,33,https://www.saucedemo.com/,51,0,0
+1757976307295,106,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3981,234,31,31,https://www.saucedemo.com/,53,0,0
+1757976307294,107,HTTP Request,200,OK,Saucedemo_QA 1-17,text,true,,3981,234,31,31,https://www.saucedemo.com/,55,0,0
+1757976307295,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,659,115,31,31,http://saucedemo.com/,53,0,0
+1757976307294,55,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-17,text,true,,659,115,31,31,http://saucedemo.com/,55,0,0
+1757976307348,53,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,31,31,https://www.saucedemo.com/,52,0,0
+1757976307349,52,HTTP Request-1,200,OK,Saucedemo_QA 1-17,text,true,,3322,119,31,31,https://www.saucedemo.com/,51,0,0
+1757976307286,115,HTTP Request,200,OK,Saucedemo_QA 1-25,text,true,,3981,234,31,31,https://www.saucedemo.com/,61,0,0
+1757976307286,61,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-25,text,true,,659,115,31,31,http://saucedemo.com/,61,0,0
+1757976307347,54,HTTP Request-1,200,OK,Saucedemo_QA 1-25,text,true,,3322,119,31,31,https://www.saucedemo.com/,48,0,0
+1757976307294,109,HTTP Request,200,OK,Saucedemo_QA 1-15,text,true,,3981,234,29,29,https://www.saucedemo.com/,55,0,0
+1757976307294,55,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-15,text,true,,659,115,29,29,http://saucedemo.com/,55,0,0
+1757976307349,54,HTTP Request-1,200,OK,Saucedemo_QA 1-15,text,true,,3322,119,29,29,https://www.saucedemo.com/,53,0,0
+1757976307286,117,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3980,234,29,29,https://www.saucedemo.com/,65,0,0
+1757976307286,65,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,29,29,http://saucedemo.com/,65,0,0
+1757976307351,52,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3322,119,29,29,https://www.saucedemo.com/,52,0,0
+1757976307295,108,HTTP Request,200,OK,Saucedemo_QA 1-10,text,true,,3981,234,29,29,https://www.saucedemo.com/,54,0,0
+1757976307295,54,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-10,text,true,,659,115,29,29,http://saucedemo.com/,54,0,0
+1757976307349,54,HTTP Request-1,200,OK,Saucedemo_QA 1-10,text,true,,3322,119,29,29,https://www.saucedemo.com/,54,0,0
+1757976307299,105,HTTP Request,200,OK,Saucedemo_QA 1-16,text,true,,3981,234,29,29,https://www.saucedemo.com/,50,0,0
+1757976307299,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-16,text,true,,659,115,29,29,http://saucedemo.com/,50,0,0
+1757976307349,55,HTTP Request-1,200,OK,Saucedemo_QA 1-16,text,true,,3322,119,29,29,https://www.saucedemo.com/,54,0,0
+1757976307297,107,HTTP Request,200,OK,Saucedemo_QA 1-23,text,true,,3981,234,27,27,https://www.saucedemo.com/,52,0,0
+1757976307297,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-23,text,true,,659,115,27,27,http://saucedemo.com/,52,0,0
+1757976307349,55,HTTP Request-1,200,OK,Saucedemo_QA 1-23,text,true,,3322,119,27,27,https://www.saucedemo.com/,52,0,0
+1757976307300,104,HTTP Request,200,OK,Saucedemo_QA 1-12,text,true,,3981,234,27,27,https://www.saucedemo.com/,49,0,0
+1757976307300,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-12,text,true,,659,115,27,27,http://saucedemo.com/,49,0,0
+1757976307349,55,HTTP Request-1,200,OK,Saucedemo_QA 1-12,text,true,,3322,119,27,27,https://www.saucedemo.com/,55,0,0
+1757976307300,105,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3980,234,25,25,https://www.saucedemo.com/,50,0,0
+1757976307300,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,659,115,25,25,http://saucedemo.com/,50,0,0
+1757976307350,55,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3321,119,25,25,https://www.saucedemo.com/,50,0,0
+1757976307298,107,HTTP Request,200,OK,Saucedemo_QA 1-18,text,true,,3981,234,25,25,https://www.saucedemo.com/,51,0,0
+1757976307298,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-18,text,true,,659,115,25,25,http://saucedemo.com/,51,0,0
+1757976307349,56,HTTP Request-1,200,OK,Saucedemo_QA 1-18,text,true,,3322,119,25,25,https://www.saucedemo.com/,56,0,0
+1757976307299,107,HTTP Request,200,OK,Saucedemo_QA 1-29,text,true,,3981,234,24,24,https://www.saucedemo.com/,50,0,0
+1757976307299,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-29,text,true,,659,115,24,24,http://saucedemo.com/,50,0,0
+1757976307349,57,HTTP Request-1,200,OK,Saucedemo_QA 1-29,text,true,,3322,119,24,24,https://www.saucedemo.com/,51,0,0
+1757976307294,112,HTTP Request,200,OK,Saucedemo_QA 1-11,text,true,,3981,234,24,24,https://www.saucedemo.com/,56,0,0
+1757976307294,56,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-11,text,true,,659,115,24,24,http://saucedemo.com/,56,0,0
+1757976307350,56,HTTP Request-1,200,OK,Saucedemo_QA 1-11,text,true,,3322,119,24,24,https://www.saucedemo.com/,52,0,0
+1757976307405,101,HTTP Request,200,OK,Saucedemo_QA 1-21,text,true,,3981,234,21,21,https://www.saucedemo.com/,54,0,0
+1757976307405,54,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-21,text,true,,659,115,21,21,http://saucedemo.com/,54,0,0
+1757976307459,47,HTTP Request-1,200,OK,Saucedemo_QA 1-21,text,true,,3322,119,21,21,https://www.saucedemo.com/,47,0,0
+1757976307403,104,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3980,234,20,20,https://www.saucedemo.com/,55,0,0
+1757976307403,56,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,20,20,http://saucedemo.com/,55,0,0
+1757976307459,48,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3322,119,20,20,https://www.saucedemo.com/,47,0,0
+1757976307401,108,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3981,234,20,20,https://www.saucedemo.com/,59,0,0
+1757976307401,59,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,659,115,20,20,http://saucedemo.com/,59,0,0
+1757976307460,49,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,20,20,https://www.saucedemo.com/,47,0,0
+1757976306134,1428,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,20,20,https://www.saucedemo.com/,157,0,84
+1757976306134,157,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,20,20,http://saucedemo.com/,157,0,84
+1757976306292,1270,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,20,20,https://www.saucedemo.com/,1270,0,1221
+1757976307509,94,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3981,234,20,20,https://www.saucedemo.com/,47,0,0
+1757976307509,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,659,115,20,20,http://saucedemo.com/,47,0,0
+1757976307556,47,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,20,20,https://www.saucedemo.com/,47,0,0
+1757976307508,96,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3980,234,20,20,https://www.saucedemo.com/,47,0,0
+1757976307508,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,20,20,http://saucedemo.com/,47,0,0
+1757976307555,49,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3322,119,20,20,https://www.saucedemo.com/,48,0,0
+1757976306083,1542,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,20,20,https://www.saucedemo.com/,138,0,72
+1757976306083,138,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,20,20,http://saucedemo.com/,138,0,72
+1757976306222,1403,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,20,20,https://www.saucedemo.com/,1403,0,1354
+1757976306287,1368,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3979,234,20,20,https://www.saucedemo.com/,187,0,77
+1757976306287,187,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,658,115,20,20,http://saucedemo.com/,187,0,77
+1757976306475,1180,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,20,20,https://www.saucedemo.com/,1180,0,1127
+1757976307562,97,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,20,20,https://www.saucedemo.com/,49,0,0
+1757976307562,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,20,20,http://saucedemo.com/,49,0,0
+1757976307611,48,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,20,20,https://www.saucedemo.com/,48,0,0
+1757976305849,1814,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,20,20,https://www.saucedemo.com/,104,0,49
+1757976305849,104,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,20,20,http://saucedemo.com/,104,0,49
+1757976305954,1709,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,20,20,https://www.saucedemo.com/,1709,0,1661
+1757976306325,1360,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3979,234,20,20,https://www.saucedemo.com/,182,0,107
+1757976306325,182,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,658,115,20,20,http://saucedemo.com/,182,0,107
+1757976306508,1177,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,20,20,https://www.saucedemo.com/,1176,0,1127
+1757976307605,94,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3980,234,20,20,https://www.saucedemo.com/,46,0,0
+1757976307605,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,20,20,http://saucedemo.com/,46,0,0
+1757976307651,48,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3322,119,20,20,https://www.saucedemo.com/,48,0,0
+1757976307604,96,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3981,234,20,20,https://www.saucedemo.com/,47,0,0
+1757976307604,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,659,115,20,20,http://saucedemo.com/,47,0,0
+1757976307652,48,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,20,20,https://www.saucedemo.com/,47,0,0
+1757976306361,1344,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3979,234,20,20,https://www.saucedemo.com/,173,0,93
+1757976306361,173,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,658,115,20,20,http://saucedemo.com/,173,0,93
+1757976306535,1170,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,20,20,https://www.saucedemo.com/,1170,0,1116
+1757976307625,98,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,20,20,https://www.saucedemo.com/,49,0,0
+1757976307625,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,20,20,http://saucedemo.com/,49,0,0
+1757976307674,49,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,20,20,https://www.saucedemo.com/,49,0,0
+1757976306400,1350,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,20,20,https://www.saucedemo.com/,169,0,83
+1757976306400,169,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,20,20,http://saucedemo.com/,169,0,83
+1757976306569,1181,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,20,20,https://www.saucedemo.com/,1181,0,1129
+1757976306448,1338,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,20,20,https://www.saucedemo.com/,166,0,82
+1757976306448,166,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,20,20,http://saucedemo.com/,166,0,82
+1757976306615,1171,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,20,20,https://www.saucedemo.com/,1170,0,1120
+1757976307659,98,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,20,20,https://www.saucedemo.com/,51,0,0
+1757976307663,99,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,20,20,https://www.saucedemo.com/,50,0,0
+1757976307659,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,20,20,http://saucedemo.com/,51,0,0
+1757976307663,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,20,20,http://saucedemo.com/,50,0,0
+1757976307710,47,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,20,20,https://www.saucedemo.com/,47,0,0
+1757976307714,48,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,20,20,https://www.saucedemo.com/,48,0,0
+1757976307656,101,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3979,234,20,20,https://www.saucedemo.com/,50,0,0
+1757976307656,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,658,115,20,20,http://saucedemo.com/,50,0,0
+1757976307706,51,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,20,20,https://www.saucedemo.com/,51,0,0
+1757976307685,105,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3980,234,20,20,https://www.saucedemo.com/,50,0,0
+1757976307685,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,20,20,http://saucedemo.com/,50,0,0
+1757976307735,55,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,20,20,https://www.saucedemo.com/,55,0,0
+1757976307700,95,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3980,234,20,20,https://www.saucedemo.com/,47,0,0
+1757976307700,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,658,115,20,20,http://saucedemo.com/,47,0,0
+1757976307747,48,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3322,119,20,20,https://www.saucedemo.com/,48,0,0
+1757976307700,98,HTTP Request,200,OK,Saucedemo_QA 1-33,text,true,,3981,234,20,20,https://www.saucedemo.com/,49,0,0
+1757976307700,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-33,text,true,,659,115,20,20,http://saucedemo.com/,49,0,0
+1757976307749,49,HTTP Request-1,200,OK,Saucedemo_QA 1-33,text,true,,3322,119,20,20,https://www.saucedemo.com/,49,0,0
+1757976307705,100,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3980,234,19,19,https://www.saucedemo.com/,52,0,0
+1757976307705,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,19,19,http://saucedemo.com/,52,0,0
+1757976307757,48,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,19,19,https://www.saucedemo.com/,48,0,0
+1757976306481,1334,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,19,19,https://www.saucedemo.com/,152,0,82
+1757976306481,152,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,19,19,http://saucedemo.com/,152,0,82
+1757976306634,1181,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,19,19,https://www.saucedemo.com/,1179,0,1122
+1757976307723,99,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,19,19,https://www.saucedemo.com/,50,0,0
+1757976307723,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,19,19,http://saucedemo.com/,50,0,0
+1757976307773,49,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,19,19,https://www.saucedemo.com/,48,0,0
+1757976307751,99,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,19,19,https://www.saucedemo.com/,51,0,0
+1757976307751,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,19,19,http://saucedemo.com/,51,0,0
+1757976307802,48,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,19,19,https://www.saucedemo.com/,48,0,0
+1757976306522,1343,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3979,234,19,19,https://www.saucedemo.com/,163,0,84
+1757976306522,163,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,658,115,19,19,http://saucedemo.com/,163,0,84
+1757976306686,1179,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,19,19,https://www.saucedemo.com/,1178,0,1126
+1757976306561,1314,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,19,19,https://www.saucedemo.com/,137,0,69
+1757976306561,137,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,19,19,http://saucedemo.com/,137,0,69
+1757976306698,1177,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,19,19,https://www.saucedemo.com/,1177,0,1123
+1757976307790,96,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,19,19,https://www.saucedemo.com/,48,0,0
+1757976307790,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,19,19,http://saucedemo.com/,48,0,0
+1757976307838,48,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,19,19,https://www.saucedemo.com/,48,0,0
+1757976307790,98,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,19,19,https://www.saucedemo.com/,51,0,0
+1757976307790,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,19,19,http://saucedemo.com/,51,0,0
+1757976307841,47,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,19,19,https://www.saucedemo.com/,47,0,0
+1757976307795,95,HTTP Request,200,OK,Saucedemo_QA 1-34,text,true,,3981,234,19,19,https://www.saucedemo.com/,47,0,0
+1757976307795,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-34,text,true,,659,115,19,19,http://saucedemo.com/,47,0,0
+1757976307842,48,HTTP Request-1,200,OK,Saucedemo_QA 1-34,text,true,,3322,119,19,19,https://www.saucedemo.com/,47,0,0
+1757976307790,102,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3979,234,18,18,https://www.saucedemo.com/,53,0,0
+1757976307790,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,658,115,18,18,http://saucedemo.com/,53,0,0
+1757976307843,49,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976307790,103,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,18,18,https://www.saucedemo.com/,54,0,0
+1757976307790,54,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,18,18,http://saucedemo.com/,54,0,0
+1757976307844,49,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976307791,104,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3980,234,18,18,https://www.saucedemo.com/,56,0,0
+1757976307791,56,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,18,18,http://saucedemo.com/,56,0,0
+1757976307847,48,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307805,95,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976307805,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,18,18,http://saucedemo.com/,48,0,0
+1757976307853,47,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307815,101,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,18,18,https://www.saucedemo.com/,52,0,0
+1757976307815,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,18,18,http://saucedemo.com/,52,0,0
+1757976307867,49,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976306599,1323,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,18,18,https://www.saucedemo.com/,142,0,78
+1757976306599,142,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,18,18,http://saucedemo.com/,142,0,78
+1757976306742,1180,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,18,18,https://www.saucedemo.com/,1179,0,1130
+1757976307822,102,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,18,18,https://www.saucedemo.com/,55,0,0
+1757976307822,55,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,18,18,http://saucedemo.com/,55,0,0
+1757976307877,47,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976306639,1295,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3980,234,18,18,https://www.saucedemo.com/,121,0,67
+1757976306639,121,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,658,115,18,18,http://saucedemo.com/,121,0,67
+1757976306761,1173,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,18,18,https://www.saucedemo.com/,1172,0,1123
+1757976307850,98,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976307850,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976307898,50,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,18,18,https://www.saucedemo.com/,50,0,0
+1757976307865,97,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976307865,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976307914,48,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976307876,99,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,18,18,https://www.saucedemo.com/,50,0,0
+1757976307876,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,18,18,http://saucedemo.com/,50,0,0
+1757976307926,49,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976307886,98,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,18,18,https://www.saucedemo.com/,50,0,0
+1757976307886,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,18,18,http://saucedemo.com/,50,0,0
+1757976307936,48,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976307888,98,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,18,18,https://www.saucedemo.com/,51,0,0
+1757976307888,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,18,18,http://saucedemo.com/,51,0,0
+1757976307939,47,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307892,100,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3979,234,18,18,https://www.saucedemo.com/,52,0,0
+1757976307892,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,658,115,18,18,http://saucedemo.com/,52,0,0
+1757976307945,47,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307893,100,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,18,18,https://www.saucedemo.com/,53,0,0
+1757976307893,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,18,18,http://saucedemo.com/,53,0,0
+1757976307946,47,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976307895,101,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3980,234,18,18,https://www.saucedemo.com/,54,0,0
+1757976307895,54,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,18,18,http://saucedemo.com/,54,0,0
+1757976307949,47,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307901,98,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3980,234,18,18,https://www.saucedemo.com/,51,0,0
+1757976307901,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,18,18,http://saucedemo.com/,51,0,0
+1757976307952,47,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976307916,96,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976307916,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976307964,48,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307924,96,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976307924,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976307973,47,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307922,99,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,18,18,https://www.saucedemo.com/,50,0,0
+1757976307922,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,18,18,http://saucedemo.com/,50,0,0
+1757976307973,48,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976307934,99,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,18,18,https://www.saucedemo.com/,51,0,0
+1757976307934,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,18,18,http://saucedemo.com/,51,0,0
+1757976307986,47,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307948,99,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,18,18,https://www.saucedemo.com/,51,0,0
+1757976307948,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,18,18,http://saucedemo.com/,51,0,0
+1757976307999,48,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976307963,97,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976307963,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308012,48,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307975,100,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,18,18,https://www.saucedemo.com/,52,0,0
+1757976307975,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,18,18,http://saucedemo.com/,52,0,0
+1757976308027,48,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307987,95,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976307987,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308035,47,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307985,100,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976307985,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308034,51,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307993,93,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,18,18,https://www.saucedemo.com/,46,0,0
+1757976307993,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,18,18,http://saucedemo.com/,46,0,0
+1757976308039,47,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307992,97,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976307992,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308041,48,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976307997,95,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976307997,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,18,18,http://saucedemo.com/,48,0,0
+1757976308045,47,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976307999,95,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976307999,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,18,18,http://saucedemo.com/,48,0,0
+1757976308048,46,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976308012,97,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308012,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308061,48,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308021,95,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308021,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308070,46,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976308021,97,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,18,18,https://www.saucedemo.com/,50,0,0
+1757976308021,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,18,18,http://saucedemo.com/,50,0,0
+1757976308071,47,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308033,97,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308033,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,18,18,http://saucedemo.com/,49,0,0
+1757976308082,48,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308047,101,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,18,18,https://www.saucedemo.com/,53,0,0
+1757976308047,53,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,18,18,http://saucedemo.com/,53,0,0
+1757976308100,48,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308060,98,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3979,234,18,18,https://www.saucedemo.com/,50,0,0
+1757976308060,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,658,115,18,18,http://saucedemo.com/,50,0,0
+1757976308110,48,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308075,96,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308075,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308124,47,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308083,95,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308083,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308131,47,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308086,94,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308086,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308133,47,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308086,96,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308086,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308134,48,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308089,94,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3979,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308089,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308136,47,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308093,94,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3980,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308093,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,18,18,http://saucedemo.com/,47,0,0
+1757976308140,47,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976308095,93,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3980,234,18,18,https://www.saucedemo.com/,46,0,0
+1757976308095,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,18,18,http://saucedemo.com/,46,0,0
+1757976308141,47,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308109,98,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308109,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308158,49,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308117,97,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,18,18,https://www.saucedemo.com/,50,0,0
+1757976308117,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,18,18,http://saucedemo.com/,50,0,0
+1757976308167,47,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308119,96,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308119,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308168,47,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308130,95,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308130,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,18,18,http://saucedemo.com/,48,0,0
+1757976308179,46,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976308148,97,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308148,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308196,49,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308159,98,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308159,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308208,49,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308215,93,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,18,18,https://www.saucedemo.com/,46,0,0
+1757976308215,98,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,18,18,https://www.saucedemo.com/,50,0,0
+1757976308215,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,18,18,http://saucedemo.com/,46,0,0
+1757976308261,47,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308215,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,18,18,http://saucedemo.com/,50,0,0
+1757976308265,48,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308208,93,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308208,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308255,46,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976305933,2355,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3979,234,18,18,https://www.saucedemo.com/,132,0,60
+1757976305933,132,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,658,115,18,18,http://saucedemo.com/,132,0,60
+1757976306066,2222,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,18,18,https://www.saucedemo.com/,2221,0,2169
+1757976308188,97,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308188,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,18,18,http://saucedemo.com/,48,0,0
+1757976308236,49,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308189,96,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308189,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,18,18,http://saucedemo.com/,48,0,0
+1757976308237,48,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308183,97,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3979,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308183,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308230,50,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308183,94,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,18,18,https://www.saucedemo.com/,46,0,0
+1757976308183,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,18,18,http://saucedemo.com/,46,0,0
+1757976308229,48,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308180,96,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308180,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308227,49,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308179,94,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308179,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308226,47,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308172,97,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308172,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308221,48,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308226,96,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308226,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,18,18,http://saucedemo.com/,47,0,0
+1757976308274,48,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308245,94,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,18,18,https://www.saucedemo.com/,46,0,0
+1757976308245,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,18,18,http://saucedemo.com/,46,0,0
+1757976308291,48,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976306051,2297,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,18,18,https://www.saucedemo.com/,1119,0,1067
+1757976306051,1119,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,18,18,http://saucedemo.com/,1119,0,1067
+1757976307171,1177,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,18,18,https://www.saucedemo.com/,1176,0,1126
+1757976308257,95,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308257,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308305,47,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308314,96,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308314,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308362,48,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308314,96,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308314,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308362,48,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308315,97,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308315,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308363,49,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308314,98,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308314,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308363,49,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308315,99,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308315,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308364,50,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308315,100,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3980,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308315,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,18,18,http://saucedemo.com/,49,0,0
+1757976308364,51,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,18,18,https://www.saucedemo.com/,51,0,0
+1757976308314,101,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3980,234,18,18,https://www.saucedemo.com/,52,0,0
+1757976308314,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,18,18,http://saucedemo.com/,52,0,0
+1757976308366,49,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308315,101,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308315,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308364,52,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308315,101,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3980,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308315,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,18,18,http://saucedemo.com/,48,0,0
+1757976308364,52,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,18,18,https://www.saucedemo.com/,48,0,0
+1757976308316,100,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308316,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308364,52,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308315,101,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308315,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308363,53,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3321,119,18,18,https://www.saucedemo.com/,49,0,0
+1757976308323,94,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308323,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,18,18,http://saucedemo.com/,47,0,0
+1757976308371,46,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976308340,94,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,18,18,https://www.saucedemo.com/,48,0,0
+1757976308340,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,18,18,http://saucedemo.com/,48,0,0
+1757976308388,46,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,18,18,https://www.saucedemo.com/,46,0,0
+1757976308348,96,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,18,18,https://www.saucedemo.com/,49,0,0
+1757976308348,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,18,18,http://saucedemo.com/,49,0,0
+1757976308397,47,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308352,94,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3979,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308352,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308399,47,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308411,94,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,18,18,https://www.saucedemo.com/,46,0,0
+1757976308411,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,18,18,http://saucedemo.com/,46,0,0
+1757976308457,48,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308411,94,HTTP Request,200,OK,Saucedemo_QA 1-36,text,true,,3981,234,18,18,https://www.saucedemo.com/,46,0,0
+1757976308411,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-36,text,true,,659,115,18,18,http://saucedemo.com/,46,0,0
+1757976308457,48,HTTP Request-1,200,OK,Saucedemo_QA 1-36,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308412,94,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3980,234,18,18,https://www.saucedemo.com/,47,0,0
+1757976308412,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,658,115,18,18,http://saucedemo.com/,47,0,0
+1757976308459,47,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,18,18,https://www.saucedemo.com/,47,0,0
+1757976308414,97,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3980,234,17,17,https://www.saucedemo.com/,49,0,0
+1757976308414,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,659,115,17,17,http://saucedemo.com/,49,0,0
+1757976308463,48,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3321,119,17,17,https://www.saucedemo.com/,47,0,0
+1757976308417,95,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,17,17,https://www.saucedemo.com/,47,0,0
+1757976308417,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,17,17,http://saucedemo.com/,47,0,0
+1757976308464,48,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,17,17,https://www.saucedemo.com/,48,0,0
+1757976308413,99,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,17,17,https://www.saucedemo.com/,51,0,0
+1757976308413,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,17,17,http://saucedemo.com/,51,0,0
+1757976308464,48,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,17,17,https://www.saucedemo.com/,48,0,0
+1757976308418,95,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,17,17,https://www.saucedemo.com/,47,0,0
+1757976308418,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,17,17,http://saucedemo.com/,47,0,0
+1757976308465,48,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,17,17,https://www.saucedemo.com/,47,0,0
+1757976308415,98,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3980,234,17,17,https://www.saucedemo.com/,49,0,0
+1757976308415,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,17,17,http://saucedemo.com/,49,0,0
+1757976308464,49,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3321,119,17,17,https://www.saucedemo.com/,49,0,0
+1757976308416,97,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3980,234,17,17,https://www.saucedemo.com/,49,0,0
+1757976308416,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,17,17,http://saucedemo.com/,49,0,0
+1757976308465,48,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3321,119,17,17,https://www.saucedemo.com/,48,0,0
+1757976308417,97,HTTP Request,200,OK,Saucedemo_QA 1-37,text,true,,3981,234,17,17,https://www.saucedemo.com/,48,0,0
+1757976308417,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-37,text,true,,659,115,17,17,http://saucedemo.com/,48,0,0
+1757976308465,49,HTTP Request-1,200,OK,Saucedemo_QA 1-37,text,true,,3322,119,17,17,https://www.saucedemo.com/,47,0,0
+1757976308416,98,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,17,17,https://www.saucedemo.com/,49,0,0
+1757976308416,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,17,17,http://saucedemo.com/,49,0,0
+1757976308465,49,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,17,17,https://www.saucedemo.com/,48,0,0
+1757976308416,99,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3980,234,16,16,https://www.saucedemo.com/,51,0,0
+1757976308416,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,16,16,http://saucedemo.com/,51,0,0
+1757976308467,48,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,16,16,https://www.saucedemo.com/,47,0,0
+1757976308435,94,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3979,234,16,16,https://www.saucedemo.com/,46,0,0
+1757976308435,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,658,115,16,16,http://saucedemo.com/,46,0,0
+1757976308481,48,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3321,119,16,16,https://www.saucedemo.com/,48,0,0
+1757976308445,95,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,16,16,https://www.saucedemo.com/,48,0,0
+1757976308445,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,16,16,http://saucedemo.com/,48,0,0
+1757976308493,47,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,16,16,https://www.saucedemo.com/,47,0,0
+1757976308447,94,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3979,234,16,16,https://www.saucedemo.com/,47,0,0
+1757976308447,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,658,115,16,16,http://saucedemo.com/,47,0,0
+1757976308494,47,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,16,16,https://www.saucedemo.com/,47,0,0
+1757976308506,93,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,16,16,https://www.saucedemo.com/,46,0,0
+1757976308506,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,16,16,http://saucedemo.com/,46,0,0
+1757976308553,46,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,16,16,https://www.saucedemo.com/,46,0,0
+1757976308506,96,HTTP Request,200,OK,Saucedemo_QA 1-30,text,true,,3981,234,16,16,https://www.saucedemo.com/,47,0,0
+1757976308506,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-30,text,true,,659,115,16,16,http://saucedemo.com/,47,0,0
+1757976308553,49,HTTP Request-1,200,OK,Saucedemo_QA 1-30,text,true,,3322,119,16,16,https://www.saucedemo.com/,47,0,0
+1757976308513,96,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,15,15,https://www.saucedemo.com/,49,0,0
+1757976308513,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,15,15,http://saucedemo.com/,49,0,0
+1757976308562,47,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,15,15,https://www.saucedemo.com/,47,0,0
+1757976308511,99,HTTP Request,200,OK,Saucedemo_QA 1-41,text,true,,3981,234,15,15,https://www.saucedemo.com/,51,0,0
+1757976308511,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-41,text,true,,659,115,15,15,http://saucedemo.com/,51,0,0
+1757976308562,48,HTTP Request-1,200,OK,Saucedemo_QA 1-41,text,true,,3322,119,15,15,https://www.saucedemo.com/,48,0,0
+1757976308512,98,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,15,15,https://www.saucedemo.com/,51,0,0
+1757976308512,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,15,15,http://saucedemo.com/,51,0,0
+1757976308563,47,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,15,15,https://www.saucedemo.com/,47,0,0
+1757976308515,95,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3980,234,15,15,https://www.saucedemo.com/,47,0,0
+1757976308514,96,HTTP Request,200,OK,Saucedemo_QA 1-42,text,true,,3981,234,15,15,https://www.saucedemo.com/,48,0,0
+1757976308515,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,658,115,15,15,http://saucedemo.com/,47,0,0
+1757976308514,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-42,text,true,,659,115,15,15,http://saucedemo.com/,48,0,0
+1757976308563,47,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,15,15,https://www.saucedemo.com/,47,0,0
+1757976308562,48,HTTP Request-1,200,OK,Saucedemo_QA 1-42,text,true,,3322,119,15,15,https://www.saucedemo.com/,47,0,0
+1757976308513,98,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3979,234,15,15,https://www.saucedemo.com/,50,0,0
+1757976308513,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,658,115,15,15,http://saucedemo.com/,50,0,0
+1757976308564,47,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3321,119,15,15,https://www.saucedemo.com/,47,0,0
+1757976308513,100,HTTP Request,200,OK,Saucedemo_QA 1-43,text,true,,3981,234,13,13,https://www.saucedemo.com/,50,0,0
+1757976308513,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-43,text,true,,659,115,13,13,http://saucedemo.com/,50,0,0
+1757976308563,50,HTTP Request-1,200,OK,Saucedemo_QA 1-43,text,true,,3322,119,13,13,https://www.saucedemo.com/,47,0,0
+1757976308515,98,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3980,234,13,13,https://www.saucedemo.com/,50,0,0
+1757976308515,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,13,13,http://saucedemo.com/,50,0,0
+1757976308565,48,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,13,13,https://www.saucedemo.com/,48,0,0
+1757976308530,94,HTTP Request,200,OK,Saucedemo_QA 1-44,text,true,,3981,234,12,12,https://www.saucedemo.com/,46,0,0
+1757976308530,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-44,text,true,,659,115,12,12,http://saucedemo.com/,46,0,0
+1757976308576,48,HTTP Request-1,200,OK,Saucedemo_QA 1-44,text,true,,3322,119,12,12,https://www.saucedemo.com/,48,0,0
+1757976308541,95,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,11,11,https://www.saucedemo.com/,49,0,0
+1757976308541,95,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3980,234,11,11,https://www.saucedemo.com/,47,0,0
+1757976308541,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,11,11,http://saucedemo.com/,49,0,0
+1757976308541,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,659,115,11,11,http://saucedemo.com/,47,0,0
+1757976308590,46,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,11,11,https://www.saucedemo.com/,46,0,0
+1757976308589,47,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3321,119,11,11,https://www.saucedemo.com/,47,0,0
+1757976308600,95,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3980,234,11,11,https://www.saucedemo.com/,47,0,0
+1757976308600,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,658,115,11,11,http://saucedemo.com/,47,0,0
+1757976308647,48,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,11,11,https://www.saucedemo.com/,47,0,0
+1757976308609,94,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,11,11,https://www.saucedemo.com/,47,0,0
+1757976308609,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,11,11,http://saucedemo.com/,47,0,0
+1757976308656,47,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,11,11,https://www.saucedemo.com/,47,0,0
+1757976308610,96,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3979,234,11,11,https://www.saucedemo.com/,50,0,0
+1757976308610,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,658,115,11,11,http://saucedemo.com/,50,0,0
+1757976308660,46,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3321,119,11,11,https://www.saucedemo.com/,46,0,0
+1757976308611,96,HTTP Request,200,OK,Saucedemo_QA 1-46,text,true,,3981,234,11,11,https://www.saucedemo.com/,49,0,0
+1757976308611,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-46,text,true,,659,115,11,11,http://saucedemo.com/,49,0,0
+1757976308660,47,HTTP Request-1,200,OK,Saucedemo_QA 1-46,text,true,,3322,119,11,11,https://www.saucedemo.com/,47,0,0
+1757976308613,95,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3980,234,11,11,https://www.saucedemo.com/,47,0,0
+1757976308613,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,11,11,http://saucedemo.com/,47,0,0
+1757976308660,48,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,11,11,https://www.saucedemo.com/,47,0,0
+1757976308610,100,HTTP Request,200,OK,Saucedemo_QA 1-45,text,true,,3981,234,10,10,https://www.saucedemo.com/,52,0,0
+1757976308610,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-45,text,true,,659,115,10,10,http://saucedemo.com/,52,0,0
+1757976308662,48,HTTP Request-1,200,OK,Saucedemo_QA 1-45,text,true,,3322,119,10,10,https://www.saucedemo.com/,48,0,0
+1757976308637,96,HTTP Request,200,OK,Saucedemo_QA 1-47,text,true,,3981,234,9,9,https://www.saucedemo.com/,47,0,0
+1757976308637,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-47,text,true,,659,115,9,9,http://saucedemo.com/,47,0,0
+1757976308684,49,HTTP Request-1,200,OK,Saucedemo_QA 1-47,text,true,,3322,119,9,9,https://www.saucedemo.com/,48,0,0
+1757976308637,96,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,9,9,https://www.saucedemo.com/,49,0,0
+1757976308637,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,9,9,http://saucedemo.com/,49,0,0
+1757976308686,47,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,9,9,https://www.saucedemo.com/,47,0,0
+1757976308707,95,HTTP Request,200,OK,Saucedemo_QA 1-48,text,true,,3981,234,8,8,https://www.saucedemo.com/,47,0,0
+1757976308707,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-48,text,true,,659,115,8,8,http://saucedemo.com/,47,0,0
+1757976308754,48,HTTP Request-1,200,OK,Saucedemo_QA 1-48,text,true,,3322,119,8,8,https://www.saucedemo.com/,47,0,0
+1757976308709,95,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3980,234,8,8,https://www.saucedemo.com/,47,0,0
+1757976308709,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,8,8,http://saucedemo.com/,47,0,0
+1757976308756,48,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,8,8,https://www.saucedemo.com/,47,0,0
+1757976308703,96,HTTP Request,200,OK,Saucedemo_QA 1-50,text,true,,3981,234,8,8,https://www.saucedemo.com/,47,0,0
+1757976308703,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-50,text,true,,659,115,8,8,http://saucedemo.com/,47,0,0
+1757976308750,49,HTTP Request-1,200,OK,Saucedemo_QA 1-50,text,true,,3322,119,8,8,https://www.saucedemo.com/,48,0,0
+1757976308695,94,HTTP Request,200,OK,Saucedemo_QA 1-49,text,true,,3981,234,8,8,https://www.saucedemo.com/,47,0,0
+1757976308695,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-49,text,true,,659,115,8,8,http://saucedemo.com/,47,0,0
+1757976308742,47,HTTP Request-1,200,OK,Saucedemo_QA 1-49,text,true,,3322,119,8,8,https://www.saucedemo.com/,47,0,0
+1757976308734,97,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,5,5,https://www.saucedemo.com/,49,0,0
+1757976308734,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,5,5,http://saucedemo.com/,49,0,0
+1757976308783,48,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,5,5,https://www.saucedemo.com/,48,0,0
+1757976308817,97,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3980,234,5,5,https://www.saucedemo.com/,48,0,0
+1757976308817,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,5,5,http://saucedemo.com/,48,0,0
+1757976308865,49,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,5,5,https://www.saucedemo.com/,48,0,0
+1757976308831,95,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,5,5,https://www.saucedemo.com/,47,0,0
+1757976308831,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,5,5,http://saucedemo.com/,47,0,0
+1757976308878,48,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,5,5,https://www.saucedemo.com/,47,0,0
+1757976308914,96,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3980,234,5,5,https://www.saucedemo.com/,48,0,0
+1757976308914,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,5,5,http://saucedemo.com/,48,0,0
+1757976308962,48,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,5,5,https://www.saucedemo.com/,48,0,0
+1757976308928,95,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,5,5,https://www.saucedemo.com/,47,0,0
+1757976308928,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,5,5,http://saucedemo.com/,47,0,0
+1757976308975,48,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,5,5,https://www.saucedemo.com/,48,0,0
+1757976309010,97,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3980,234,5,5,https://www.saucedemo.com/,47,0,0
+1757976309010,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,5,5,http://saucedemo.com/,47,0,0
+1757976309057,50,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3321,119,5,5,https://www.saucedemo.com/,50,0,0
+1757976309023,95,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3979,234,5,5,https://www.saucedemo.com/,48,0,0
+1757976309023,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,658,115,5,5,http://saucedemo.com/,48,0,0
+1757976309071,47,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3321,119,5,5,https://www.saucedemo.com/,46,0,0
+1757976309108,93,HTTP Request,200,OK,Saucedemo_QA 1-32,text,true,,3981,234,5,5,https://www.saucedemo.com/,46,0,0
+1757976309108,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-32,text,true,,659,115,5,5,http://saucedemo.com/,46,0,0
+1757976309154,47,HTTP Request-1,200,OK,Saucedemo_QA 1-32,text,true,,3322,119,5,5,https://www.saucedemo.com/,47,0,0
+1757976309119,93,HTTP Request,200,OK,Saucedemo_QA 1-35,text,true,,3981,234,4,4,https://www.saucedemo.com/,46,0,0
+1757976309119,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-35,text,true,,659,115,4,4,http://saucedemo.com/,46,0,0
+1757976309165,47,HTTP Request-1,200,OK,Saucedemo_QA 1-35,text,true,,3322,119,4,4,https://www.saucedemo.com/,47,0,0
+1757976306165,18422,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3981,234,3,3,https://www.saucedemo.com/,138,0,62
+1757976306165,138,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,658,115,3,3,http://saucedemo.com/,138,0,62
+1757976306304,18283,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,18283,0,18234
+1757976306243,18422,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3981,234,3,3,https://www.saucedemo.com/,147,0,69
+1757976306243,147,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,658,115,3,3,http://saucedemo.com/,147,0,69
+1757976306390,18275,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,18275,0,18224
+1757976306205,18454,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3981,234,3,3,https://www.saucedemo.com/,167,0,84
+1757976306205,167,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,658,115,3,3,http://saucedemo.com/,167,0,84
+1757976306373,18286,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,18286,0,18237
+1757976324588,97,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3982,234,3,3,https://www.saucedemo.com/,50,0,0
+1757976324588,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,659,115,3,3,http://saucedemo.com/,50,0,0
+1757976324639,46,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,46,0,0
+1757976324678,98,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3982,234,3,3,https://www.saucedemo.com/,50,0,0
+1757976324678,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,659,115,3,3,http://saucedemo.com/,50,0,0
+1757976324728,48,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976324679,100,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,3,3,https://www.saucedemo.com/,52,0,0
+1757976324679,52,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,3,3,http://saucedemo.com/,52,0,0
+1757976324731,48,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976324685,98,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3982,234,3,3,https://www.saucedemo.com/,49,0,0
+1757976324685,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,659,115,3,3,http://saucedemo.com/,49,0,0
+1757976324734,49,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,49,0,0
+1757976324778,95,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3982,234,3,3,https://www.saucedemo.com/,49,0,0
+1757976324778,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,659,115,3,3,http://saucedemo.com/,49,0,0
+1757976324827,46,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,46,0,0
+1757976324779,96,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,3,3,https://www.saucedemo.com/,49,0,0
+1757976324779,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,3,3,http://saucedemo.com/,49,0,0
+1757976324828,47,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976324783,96,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3982,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976324783,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,659,115,3,3,http://saucedemo.com/,48,0,0
+1757976324832,47,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976324873,99,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3982,234,3,3,https://www.saucedemo.com/,51,0,0
+1757976324873,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,659,115,3,3,http://saucedemo.com/,51,0,0
+1757976324925,47,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,46,0,0
+1757976324876,98,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,3,3,https://www.saucedemo.com/,50,0,0
+1757976324876,50,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,3,3,http://saucedemo.com/,50,0,0
+1757976324926,48,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976324880,95,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3982,234,3,3,https://www.saucedemo.com/,47,0,0
+1757976324880,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,659,115,3,3,http://saucedemo.com/,47,0,0
+1757976324927,48,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976324972,97,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3982,234,3,3,https://www.saucedemo.com/,49,0,0
+1757976324972,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,659,115,3,3,http://saucedemo.com/,49,0,0
+1757976325021,48,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976324975,97,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3982,234,3,3,https://www.saucedemo.com/,49,0,0
+1757976324975,49,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,659,115,3,3,http://saucedemo.com/,49,0,0
+1757976325024,48,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976324974,98,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,3,3,https://www.saucedemo.com/,51,0,0
+1757976324974,51,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,3,3,http://saucedemo.com/,51,0,0
+1757976325025,47,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976325072,96,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976325072,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,3,3,http://saucedemo.com/,48,0,0
+1757976325120,48,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976325072,94,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3982,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976325072,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,659,115,3,3,http://saucedemo.com/,48,0,0
+1757976325120,46,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,46,0,0
+1757976325070,93,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3982,234,3,3,https://www.saucedemo.com/,47,0,0
+1757976325070,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,659,115,3,3,http://saucedemo.com/,47,0,0
+1757976325117,46,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,46,0,0
+1757976325175,96,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,3,3,https://www.saucedemo.com/,47,0,0
+1757976325175,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,3,3,http://saucedemo.com/,47,0,0
+1757976325223,48,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976325176,96,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3982,234,3,3,https://www.saucedemo.com/,46,0,0
+1757976325175,97,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3982,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976325175,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,659,115,3,3,http://saucedemo.com/,48,0,0
+1757976325223,49,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976325176,46,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,659,115,3,3,http://saucedemo.com/,46,0,0
+1757976325223,49,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976325271,97,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976325271,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,3,3,http://saucedemo.com/,48,0,0
+1757976325320,48,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976325272,96,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3982,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976325272,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,659,115,3,3,http://saucedemo.com/,48,0,0
+1757976325320,48,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976325272,97,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3982,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976325272,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,659,115,3,3,http://saucedemo.com/,48,0,0
+1757976325320,49,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976325368,95,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,3,3,https://www.saucedemo.com/,47,0,0
+1757976325368,47,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,3,3,http://saucedemo.com/,47,0,0
+1757976325415,48,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,3,3,https://www.saucedemo.com/,48,0,0
+1757976325369,95,HTTP Request,200,OK,Saucedemo_QA 1-38,text,true,,3983,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976325369,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-38,text,true,,660,115,3,3,http://saucedemo.com/,48,0,0
+1757976325417,47,HTTP Request-1,200,OK,Saucedemo_QA 1-38,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976325368,98,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3982,234,3,3,https://www.saucedemo.com/,48,0,0
+1757976325368,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,659,115,3,3,http://saucedemo.com/,48,0,0
+1757976325419,47,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,3,3,https://www.saucedemo.com/,47,0,0
+1757976325463,96,HTTP Request,200,OK,Saucedemo_QA 1-39,text,true,,3983,234,2,2,https://www.saucedemo.com/,48,0,0
+1757976325463,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-39,text,true,,660,115,2,2,http://saucedemo.com/,48,0,0
+1757976325511,48,HTTP Request-1,200,OK,Saucedemo_QA 1-39,text,true,,3323,119,2,2,https://www.saucedemo.com/,48,0,0
+1757976325467,99,HTTP Request,200,OK,Saucedemo_QA 1-40,text,true,,3983,234,1,1,https://www.saucedemo.com/,48,0,0
+1757976325467,48,HTTP Request-0,301,Moved Permanently,Saucedemo_QA 1-40,text,true,,660,115,1,1,http://saucedemo.com/,48,0,0
+1757976325515,51,HTTP Request-1,200,OK,Saucedemo_QA 1-40,text,true,,3323,119,1,1,https://www.saucedemo.com/,49,0,0
